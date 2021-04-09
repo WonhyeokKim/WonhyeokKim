@@ -2,6 +2,9 @@
 ### JOB
 - Student
 ## HOBBY
+- Make History
+- Exircise
+- Listening Music
 
 ### PROJECT STATUS
 ```diff
