@@ -1,11 +1,12 @@
 # Introduce Self for Me
 ### JOB
-
+- Student
 ## HOBBY
 
 ### PROJECT STATUS
 ```diff
 + Hardware
++ Android Apps
 ```
 
 ## STATS  
