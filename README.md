@@ -2,7 +2,6 @@
 ### JOB
 - Student
 ## HOBBY
-- Make History
 - Exircise
 - Listening Music
 
